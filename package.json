@@ -1,0 +1,19 @@
+{
+  "name": "@cesar-gom-bet/nuevomodulotest",
+  "version": "1.0.1",
+  "description": "nuevo modulo de prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gomezbetancurcesar/testNuevoModule.git"
+  },
+  "author": "Cesar Gomez Betancur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gomezbetancurcesar/testNuevoModule/issues"
+  },
+  "homepage": "https://github.com/gomezbetancurcesar/testNuevoModule#readme"
+}
